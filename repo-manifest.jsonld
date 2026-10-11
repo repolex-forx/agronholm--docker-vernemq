@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/agronholm/docker-vernemq/commit/dca9e7ba5ac75fe107946e3b186472bc15ffcdc2",
       "git:hexsha": "dca9e7ba5ac75fe107946e3b186472bc15ffcdc2",
-      "repolex:parseStatus": "metadata_complete",
+      "repolex:parseStatus": "ast_complete",
       "git:tagName": "helm-1.6.13"
     },
     {
