@@ -33,13 +33,19 @@
     },
     {
       "@type": "repolex:GraphFile",
+      "repolex:graphType": "repolex",
+      "repolex:graphFilePath": "aggregate/repolex/dca9e7ba5ac75fe107946e3b186472bc15ffcdc2/chunk-001.nq.gz",
+      "repolex:graphFileSize": 17982
+    },
+    {
+      "@type": "repolex:GraphFile",
       "repolex:graphType": "ast",
       "repolex:graphFilePath": "aggregate/ast/dca9e7ba5ac75fe107946e3b186472bc15ffcdc2/chunk-001.nq.gz",
       "repolex:graphFileSize": 117741
     }
   ],
-  "repolex:parseStatus": "ast_complete",
-  "repolex:parsedAt": "2026-10-11T19:38:30.605354+00:00",
+  "repolex:parseStatus": "parsed",
+  "repolex:parsedAt": "2026-10-11T19:40:31.236351+00:00",
   "repolex:parserVersion": "0.1.10",
   "git:tagName": "helm-1.6.13"
 }
