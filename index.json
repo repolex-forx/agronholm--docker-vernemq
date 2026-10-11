@@ -1,0 +1,11 @@
+{
+  "org": "agronholm",
+  "repo": "docker-vernemq",
+  "versions": [
+    {
+      "commit": "dca9e7ba5ac75fe107946e3b186472bc15ffcdc2",
+      "tag": "helm-1.6.13",
+      "parsed_at": "2026-10-11T19:40:31.236351+00:00"
+    }
+  ]
+}
